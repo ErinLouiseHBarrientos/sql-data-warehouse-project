@@ -28,6 +28,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
+
 **Customer Behavior**
 
 **Product Performance**
@@ -40,4 +41,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## About Me
-Hello! I'm **Erin Louise H. Barrientos**. I'm an IT professional and an aspiring data specialist. I'll see you in the next one, Ciao!
+Hello! I'm **Erin Louise H. Barrientos**. I'm an IT professional and an aspiring data specialist committed to creating value and generating actionable insisghts. I'll see you in the next one, Ciao!
