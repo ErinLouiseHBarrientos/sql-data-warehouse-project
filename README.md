@@ -2,7 +2,7 @@
 
 This project demonstrates a comprehenssive data warehousing and analytics solution, from building a data warehouse to generating actionable insisghts. Designed as a portfolio project that highlights industry best practices in data engineering and analytics.
 
-...
+---
 
 ## Project Requirements
 
@@ -22,7 +22,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-...
+---
 
 ### BI: Analytics and Reporting (DATA ANALYSIS)
 
@@ -35,7 +35,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 **Sales Trends**
 
-...
+---
 
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
