@@ -12,7 +12,7 @@ This repository focuses on building a data warehouse solution from scratch, inte
 It serves as the foundation project for the SQL Data Analytics Project, where the transformed data is further explored and analyzed.
 
 Key components include:
-- Data ingestion from multiple systems
+- Data ingestion from source systems (ERP and CRM) provided as CSV files
 - Data cleaning and transformation
 - Data modeling for analytics
 - SQL-based reporting and insights
